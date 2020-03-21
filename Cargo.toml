@@ -1,0 +1,13 @@
+[package]
+name = "substr"
+version = "1.0.0"
+edition = "2018"
+authors = ["Reid Rankin <reidrankin@gmail.com>"]
+license = "CC0-1.0"
+description = "Handle substrings as ranges without lifetimes"
+repository = "https://github.com/reidrankin/substr/"
+maintenance = "actively-developed"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
